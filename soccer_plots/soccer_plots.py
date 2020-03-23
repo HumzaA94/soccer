@@ -68,7 +68,7 @@ def pitch_pseudo():
 
     return pitch_shapes
 
-def draw_pitch(graphtitle):
+def draw_pitch_example(graphtitle):
     layout=go.Layout(
     autosize=True,
         xaxis=dict(
