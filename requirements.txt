@@ -1,0 +1,5 @@
+pandas==
+numpy==
+plotly==
+functools==
+dash-boostrap-components==
